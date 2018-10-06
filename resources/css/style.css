@@ -1,0 +1,35 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: "Work Sans", sans-serif;
+    background-color: rgb(255,242,242);
+}
+
+ #instructions h1 {
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: rgb(32, 64, 86);
+}
+
+strong {
+    color: rgb(32, 64, 86);
+}
+
+.container {
+    margin-top: 5.25rem;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12.5rem;
+    background-color: rgb(32, 64, 86);
+    color: white;
+    border-radius: 8px;
+    border: 4px solid white;
+    font-weight: 900;
+    font-size: 7rem;
+}
